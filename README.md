@@ -1,5 +1,9 @@
 # Project Stell‑E 🌍
-Project Stell‑E is an open environmental robotics initiative under Stellarrimz Innovation Lab
+Project Stell‑E is an open environmental robotics initiative under StellarRimz Innovation Lab
+
+<img width="414" height="368" alt="Stell-E" src="https://github.com/user-attachments/assets/184b409c-d471-4f8a-962b-cd9971b91fd6" />
+
+#            
 
 **Mission**  
 Project Stell‑E is an open initiative to design environmental robotics and pollution‑control devices that are focused on affordability and effectiveness.  
