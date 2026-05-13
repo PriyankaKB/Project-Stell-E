@@ -19,5 +19,7 @@ Our goal is to prototype replicable solutions for river cleanup, air purificatio
 This is an open initiative innovation lab. Contributions, forks, and ideas are welcome.  
 Together, we can build practical solutions for a cleaner environment.
 
+Work In Progress (WIP) ... 🚧
+
 
 
