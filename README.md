@@ -24,7 +24,9 @@ This is an open initiative innovation lab. Contributions, forks, and ideas are w
 Together, we can build practical solutions for a cleaner environment.
 
 ## Related Projects
-Green-Ecosystem: https://github.com/PriyankaKB/Green-Ecosystem/
+**Green-Ecosystem**: https://github.com/PriyankaKB/Green-Ecosystem/
+
+**3R**: https://github.com/PriyankaKB/3R
 
 
 Work In Progress (WIP) ... 🚧
