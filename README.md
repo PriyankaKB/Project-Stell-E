@@ -26,7 +26,7 @@ Together, we can build practical solutions for a cleaner environment.
 ## Related Projects
 **Green-Ecosystem**: https://github.com/PriyankaKB/Green-Ecosystem/
 
-**3R**: https://github.com/PriyankaKB/3R
+**3R-Reduce-Reuse-Recycle**: https://github.com/PriyankaKB/3R-Reduce-Reuse-Recycle/
 
 
 Work In Progress (WIP) ... 🚧
